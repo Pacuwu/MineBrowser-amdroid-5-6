@@ -20,9 +20,9 @@ An ultra-lightweight, high-performance Android web browser built on top of the m
 
 Tested and verified to render heavy, reactive modern frameworks and real-time content smoothly on legacy specs:
 * **YouTube (`m.youtube.com`):** Perfect video playback leveraging hardware-accelerated AVC/H.264 decoding. **0 dropped frames** (`0 dropped of 2143`) and fluid stats-for-nerds streaming at native speeds.
-* **Bluesky (`bsky.app`):** Full support for modern single-page apps (SPA), real-time timelines, interactive tabs, dynamic feeds, and smooth scrolling without freeze-ups.
+* **Bluesky (`bsky.app`) & X (`x.com`):** Full support for modern single-page apps (SPA), real-time timelines, interactive tabs, dynamic feeds, and smooth scrolling without WebKit-related freeze-ups or memory leaks.
+* **Character.ai (`character.ai` / `c.ai`):** Smooth real-time chat rendering and AI message stream processing without lagging the legacy CPU or triggering low-memory process kills.
 * **Heavy WebApps:** Capable of loading intensive real-time web games (like Subway Surfers web) and live chat interfaces natively without memory overflow.
-
 ---
 
 ## 🛠️ Project Roadmap & Status (60% Completed)
